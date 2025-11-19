@@ -587,6 +587,7 @@ INJECT_PLACEHOLDER = """
                 }
             },
             recordCanvas: true,
+            inlineImages: true,
             collectFonts: true,
             recordCrossOriginIframes: true,
             maskInputOptions: {
